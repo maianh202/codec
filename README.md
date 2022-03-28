@@ -1,0 +1,2 @@
+# codec
+lam thu
